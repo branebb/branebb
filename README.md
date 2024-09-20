@@ -1,4 +1,4 @@
-# I study maths and computer science. 📚
+I study maths and computer science. 📚
 
 <!--
 **branebb/branebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
