@@ -1,1 +1,1 @@
-I study maths and computer science. 📚
+I train machines.
