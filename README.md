@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="60"/>
 </p>
-<img align="right" src="https://github-readme-stats-fast.vercel.app/api/streak?username=branebb&theme=default" width="400" alt="GitHub Streak"/>
+<img align="right" src="https://streak-stats.demolab.com?user=branebb&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=199"/>
 <h3 align="left">Connect</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/branimir-brekalo/" target="_blank">
